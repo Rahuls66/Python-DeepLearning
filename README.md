@@ -1,1 +1,1 @@
-This repository contains projects done using Deep LEarning Algorithms.
+This repository contains projects done using Deep Learning Techniques and Algorithms.
